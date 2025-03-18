@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: green;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #3a6604;
+    --color-button-hover: lightgreen;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -54,7 +54,7 @@ body {
 
 /* Títulos */
 .main-title {
-    font-size: 48px;
+    font-size: 36px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
@@ -63,7 +63,7 @@ body {
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 36px;
+    font-size: 24px;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;

@@ -12,15 +12,15 @@
 <body>
 <main class="main-content">
     <header class="header-banner">
-    <h1 class="main-title">Amigo Secreto</h1>
-    <img src="assets/amigo-secreto.png" alt="Imagem representativa de amigo secreto">
+    <h1 class="main-title">Meu Amigo Secreto</h1>
+    <img src="assets/amigo-secreto.png" alt="Meu amigo secreto">
     </header>
     
     <section class="input-section">
-    <h2 class="section-title">Digite o nome dos seus amigos</h2>
-    <p class="section-subtitle">Digite os nomes dos seus amigos separados por vírgula. Exemplo: Carlos, Maria, João</p>
+    <h2 class="section-title">Escreva o nome dos seus amigos</h2>
+    <p class="section-subtitle">Escreva os nomes dos seus amigos que serão sorteados, separados por vírgula. Exemplo: Carlos, Maria, João</p>
     <div class="input-wrapper">
-        <input type="text" id="amigo" class="input-name" placeholder="Digite um nome">
+        <input type="text" id="amigo" class="input-name" placeholder="Digite os nomes de seus amigos">
         <button class="button-add" onclick="adicionarAmigo()">Adicionar</button>
     </div>
     
@@ -28,13 +28,9 @@
     <ul id="resultado" class="result-list" aria-live="polite"></ul>
 
     <div class="button-container">
-        <button class="button-single-draw" onclick="sortearUmAmigo()" aria-label="Sortear um amigo">
+        <button class="button-single-draw" onclick="sortearUmAmigo()" aria-label="Sortear">
         <img src="assets/play_circle_outline.png" alt="Ícone para sortear um amigo">
         Sortear um Amigo
-        </button>
-        <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear lista completa">
-        <img src="assets/play_circle_outline.png" alt="Ícone para sortear">
-        Gerar uma Lista
         </button>
         <button class="button-reset" onclick="reiniciarSorteio()" aria-label="Reiniciar sorteio">
         <img src="assets/play_circle_outline.png" alt="Ícone para reiniciar">
