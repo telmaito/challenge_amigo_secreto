@@ -19,24 +19,6 @@ JavaScript: A magia por trás da lógica do sorteio e da interação dinâmica d
 Deploy 🚀
 O projeto foi hospedado no Vercel, então você pode acessar e testar a aplicação online. Confira aqui: Amigo Secreto 🎁
 
-## Como Usar 🚀
-Clone o Repositório:
-Se quiser rodar o projeto no seu computador ou modificar algo, clone o repositório com o comando:
-
-git clone https://github.com/marcoshsq/ChallengeAmigoSecreto-G8-ONE.git
-
-Abra o Projeto:
-Abra o arquivo index.html diretamente no navegador ou use uma extensão como o Live Server no VS Code para uma visualização mais dinâmica. 🌐
-
-Adicione os Participantes:
-Digite os nomes no campo de texto e clique em "Adicionar". Você pode adicionar um nome por vez ou separá-los por vírgula. ✨
-
-Realize o Sorteio:
-Clique em "Sortear Amigos" para gerar os pares completos ou em "Sortear um Amigo" para fazer um sorteio rápido de um único amigo. 🎲
-
-Reinicie o Sorteio:
-Clique em "Reiniciar Sorteio" para limpar tudo e começar de novo. 🔁
-
 ## Créditos 🏆
 Este projeto foi desenvolvido a partir de um desafio do Oracle Next Education (ONE), com a parceria da Alura. Todo o crédito pela ideia original vai para o desafio, que inspirou a criar essa versão. 🙌
 
