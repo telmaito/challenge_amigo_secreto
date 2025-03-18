@@ -17,7 +17,7 @@ HTML5: Para estruturar a página e garantir que tudo esteja bem organizado. 🏗
 CSS3: Para dar aquele charme no design e deixar a experiência visual mais agradável e responsiva. 🎨
 JavaScript: A magia por trás da lógica do sorteio e da interação dinâmica da página. ⚙️
 Deploy 🚀
-O projeto foi hospedado no Vercel, então você pode acessar e testar a aplicação online. Confira aqui: Amigo Secreto 🎁
+O projeto foi hospedado no Vercel, então você pode acessar e testar a aplicação online. Confira aqui: <a href = "https://challenge-amigo-secreto-nine-mauve.vercel.app/">Challenge Amigo Secreto</a> 🎁
 
 ## Créditos 🏆
 Este projeto foi desenvolvido a partir de um desafio do Oracle Next Education (ONE), com a parceria da Alura. Todo o crédito pela ideia original vai para o desafio, que inspirou a criar essa versão. 🙌
